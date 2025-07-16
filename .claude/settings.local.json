@@ -1,0 +1,312 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(find:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(deno:*)",
+      "Bash(chmod:*)",
+      "Bash(\"/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh\")",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(bash:*)",
+      "Bash(claude hooks remove:*)",
+      "Bash(claude hooks list:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)"
+    ],
+    "deny": []
+  },
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/4TB Crucial/ai_projects/1/claude-notification.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
